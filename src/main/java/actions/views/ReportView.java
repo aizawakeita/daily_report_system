@@ -44,6 +44,11 @@ public class ReportView {
     private String content;
 
     /**
+     * 備考
+     */
+    private String remarks;
+
+    /**
      * 登録日時
      */
     private LocalDateTime createdAt;
